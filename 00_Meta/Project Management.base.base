@@ -1,12 +1,5 @@
 views:
   - type: table
-    name: Tabelle
-    filters:
-      and:
-        - '!file.path.contains("00_Meta/Templates")'
-        - type.contains("Project")
-    sort: []
-  - type: table
     name: All Properties
     filters:
       and:
