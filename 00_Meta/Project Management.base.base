@@ -5,5 +5,19 @@ views:
       and:
         - '!file.path.contains("00_Meta/Templates")'
         - type.contains("Project")
+    sort: []
+  - type: table
+    name: All Properties
+    filters:
+      and:
         - '!file.path.contains("00_Meta/Templates")'
+  - type: table
+    name: All Projects
+    filters:
+      and:
+        - type.contains("Project")
+  - type: table
+    name: All Team Members
+    filters:
+      and:
         - type.contains("Team")
