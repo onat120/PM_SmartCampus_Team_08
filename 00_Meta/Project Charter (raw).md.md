@@ -23,7 +23,7 @@ Konfiguration von Sensor-Grenzwerten.
 - **Zielgruppe & Stakeholder:** 
   - Campus-Betriebshof, Reinigungspersonal, Studierende und Lehrende an der HFU.
 - **Hardware (Klassisches PM):** 
-  - Ultraschall-Füllstandssensoren, GPS-Module für Standortverortung, kleine Solar-Charge-Controller & Akku-Puffer, Mikrocontroller (z. B. ESP32).
+  - Ultraschall-Füllstandssensoren, GPS-Module für Standortverortung, kleine Solar-Charge-Controller & Akku-Puffer, Mikrocontroller.
 - **Software & App (Agiles PM):** 
   - Mobile App für Reinigungskräfte & Betriebshof mit Live-Füllstandsanzeige, Routenoptimierung, Anpassung von Warnschwellen und Recycling-Statistiken.
 - **Schnittstellen & Restriktionen:** 
