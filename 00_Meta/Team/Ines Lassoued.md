@@ -2,7 +2,7 @@
 id:
 type: Team
 role:
-studies:
+studies: ITP
 semester:
 skills:
 parent:
