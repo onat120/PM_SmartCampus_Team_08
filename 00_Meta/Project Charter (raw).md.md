@@ -18,12 +18,12 @@ Konfiguration von Sensor-Grenzwerten.
   - Durchführung automatisierter Scans/Messungen mehrmals täglich.
   - Generierung optimierter Abholrouten für das Reinigungspersonal (analog zum Logistik-System der Deutschen Post) inkl. Push-Benachrichtigungen in der Mobile App.
   - Statusabgleich abgeholter Behälter manuell per App oder automatisch über Sensor-Feedback nach der Leerung.
-- **Optionale Erweiterung ** 
-  - Anbindung von Mechanismen oder Sensoren zur verfeinerten Mülltrennung.
+- **Optionale Erweiterung:** 
+  - Anbindung von Mechanismen oder Sensoren zur verfeinerten Mülltrennung bzw. Trennungsanalyse am Behälter.
 - **Zielgruppe & Stakeholder:** 
   - Campus-Betriebshof, Reinigungspersonal, Studierende und Lehrende an der HFU.
 - **Hardware (Klassisches PM):** 
-  - Ultraschall-Füllstandssensoren, GPS-Module für Standortverortung, kleine Solar-Charge-Controller & Akku-Puffer, Mikrocontroller.
+  - Ultraschall-Füllstandssensoren, GPS-Module für Standortverortung, kleine Solar-Charge-Controller & Akku-Puffer, Mikrocontroller (z. B. ESP32).
 - **Software & App (Agiles PM):** 
   - Mobile App für Reinigungskräfte & Betriebshof mit Live-Füllstandsanzeige, Routenoptimierung, Anpassung von Warnschwellen und Recycling-Statistiken.
 - **Schnittstellen & Restriktionen:** 
