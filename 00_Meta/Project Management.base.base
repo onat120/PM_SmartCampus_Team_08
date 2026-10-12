@@ -14,3 +14,9 @@ views:
     filters:
       and:
         - type.contains("Team")
+  - type: table
+    name: All Projects Charters
+    filters:
+      and:
+        - type.contains("Project Charter")
+        - '!file.name.contains("(AI)")'
