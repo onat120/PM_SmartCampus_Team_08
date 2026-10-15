@@ -1,9 +1,6 @@
 views:
   - type: table
     name: All Properties
-    filters:
-      and:
-        - '!file.path.contains("00_Meta/Templates")'
   - type: table
     name: All Projects
     filters:
