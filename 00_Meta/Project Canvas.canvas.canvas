@@ -1,10 +1,11 @@
 {
 	"nodes":[
-		{"id":"129d72d610861042","type":"text","text":"","x":-474,"y":-50,"width":250,"height":60},
+		{"id":"d33739d551c6b529","x":480,"y":-520,"width":440,"height":910,"type":"group","label":"Team"},
 		{"id":"f6357b4dbe474a13","type":"file","file":"00_Meta/Smart Waste.md","x":-120,"y":-600,"width":400,"height":400,"color":"1"},
-		{"id":"113a589cb90095f6","x":-120,"y":10,"width":400,"height":400,"type":"file","file":"00_Meta/Project Charter.md.md"},
-		{"id":"9a2691c7b59da968","x":456,"y":-50,"width":400,"height":400,"color":"4","type":"file","file":"00_Meta/Team/Onat Özcelik.md"},
-		{"id":"3b17b8c3c4ddf1a7","x":456,"y":-520,"width":400,"height":400,"color":"4","type":"file","file":"00_Meta/Team/Ines Lassoued.md"}
+		{"id":"113a589cb90095f6","x":-120,"y":10,"width":400,"height":400,"color":"2","type":"file","file":"00_Meta/Project Charter.md.md"},
+		{"id":"129d72d610861042","type":"text","text":"","x":-560,"y":-150,"width":250,"height":60},
+		{"id":"9a2691c7b59da968","x":500,"y":-30,"width":400,"height":400,"color":"4","type":"file","file":"00_Meta/Team/Onat Özcelik.md"},
+		{"id":"3b17b8c3c4ddf1a7","x":500,"y":-500,"width":400,"height":400,"color":"4","type":"file","file":"00_Meta/Team/Ines Lassoued.md"}
 	],
 	"edges":[
 		{"id":"7db337071bc19af6","fromNode":"f6357b4dbe474a13","fromSide":"bottom","toNode":"113a589cb90095f6","toSide":"top"},
