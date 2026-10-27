@@ -1,15 +1,7 @@
-## Project Dashboard
-### Team Members
-![[Project Management.base.base]]
-
-
-# Smart Waste
-
 # Project Dashboard
 
 ### Team Members
-![[Project Management.base#All Team Members]]
-
+![[Project Management.base]]
 ### Project Charter
 ![[Project Management.base#All Projects Charters]]
 
