@@ -1,15 +1,18 @@
+# Smart Waste
+
 # Project Dashboard
 
 ### Team Members
-![[Project Management.base]]
+![[Project Management#All Team Members]]
+
 ### Project Charter
-![[Project Management.base#All Projects Charters]]
+![[Project Management#All Projects Charters]]
 
 ## Goals
-![[Project Management.base#All Goals]]
+![[Project Management#All Goals]]
 
 ## Requirements
-![[Project Management.base#All Requirements]]
+![[Project Management#All Requirements]]
 
 ## Work Packages
-![[Project Management.base#All Work Packages]]
+![[Project Management#All Work Packages]]
