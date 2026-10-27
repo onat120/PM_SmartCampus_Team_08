@@ -1,6 +1,6 @@
 views:
   - type: table
-    name: All Properties
+    name: All Properties 1
   - type: table
     name: All Projects
     filters:
@@ -17,3 +17,9 @@ views:
       and:
         - type.contains("Project Charter")
         - '!file.name.contains("(AI)")'
+  - type: table
+    name: Sicht
+  - type: table
+    name: All Properties 2
+  - type: table
+    name: All Properties 3
