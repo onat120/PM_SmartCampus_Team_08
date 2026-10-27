@@ -1,6 +1,5 @@
 {
 	"nodes":[
-		{"id":"fb02e63e1d4d6ac9","x":418,"y":548,"width":400,"height":400,"type":"file","file":"02_WBS_Planning/WP_3.2_Implementierung_App.md.md"},
 		{"id":"498eceeb7121f74c","type":"text","text":"1.0 Projektmanagement","x":200,"y":-920,"width":250,"height":60},
 		{"id":"d89cf74f4b2ca35c","type":"file","file":"02_WBS_Planning/WP_1.2_Projektsteuerung.md.md","x":125,"y":-680,"width":400,"height":400},
 		{"id":"e72ed960c5a64a2d","type":"file","file":"02_WBS_Planning/WP_1.1_Projektplanung.md.md","x":-320,"y":-680,"width":400,"height":400},
@@ -10,8 +9,13 @@
 		{"id":"fb14e2ddc7af1ee0","type":"file","file":"02_WBS_Planning/WP_2.2_Aufbau_Hardware.md.md","x":125,"y":-40,"width":400,"height":400},
 		{"id":"b1b0da299d9e1679","type":"file","file":"02_WBS_Planning/WP_2.3_Anpassung_Sensorik.md.md","x":560,"y":-40,"width":400,"height":400},
 		{"id":"dcca7db4d592d50e","type":"text","text":"3.0 Software & GUI","x":200,"y":440,"width":250,"height":60},
-		{"id":"dcbcdb0675816cee","type":"text","text":"4.0 Integration & Test","x":-245,"y":1200,"width":250,"height":60},
-		{"id":"ea7a42cec7692dc5","x":418,"y":548,"width":400,"height":400,"type":"file","file":"02_WBS_Planning/WP_3.1_GUI_Mockup.md.md"}
+		{"id":"45ab1c1ba28c4e72","x":560,"y":600,"width":400,"height":400,"type":"file","file":"02_WBS_Planning/WP_3.3_Backend_API.md.md"},
+		{"id":"ea7a42cec7692dc5","x":-320,"y":600,"width":400,"height":400,"type":"file","file":"02_WBS_Planning/WP_3.1_GUI_Mockup.md.md"},
+		{"id":"fb02e63e1d4d6ac9","x":125,"y":600,"width":400,"height":400,"type":"file","file":"02_WBS_Planning/WP_3.2_Implementierung_App.md.md"},
+		{"id":"dcbcdb0675816cee","type":"text","text":"4.0 Integration & Test","x":200,"y":1080,"width":250,"height":60},
+		{"id":"c31c0232c3873126","x":560,"y":1240,"width":400,"height":400,"type":"file","file":"02_WBS_Planning/WP_4.3_Feldtest_Campus.md.md"},
+		{"id":"11a4f955c0a3924a","x":125,"y":1240,"width":400,"height":400,"type":"file","file":"02_WBS_Planning/WP_4.2_Integrationstest_System.md.md"},
+		{"id":"f83af882420285e8","x":-320,"y":1240,"width":400,"height":400,"type":"file","file":"02_WBS_Planning/WP_4.1_Funktionstest_Hardware.md.md"}
 	],
 	"edges":[
 		{"id":"a0cd9b1a09a4eebc","fromNode":"498eceeb7121f74c","fromSide":"bottom","toNode":"d89cf74f4b2ca35c","toSide":"top"},
@@ -19,6 +23,12 @@
 		{"id":"e461259a561a8ffc","fromNode":"498eceeb7121f74c","fromSide":"bottom","toNode":"d243d878bc800bba","toSide":"top"},
 		{"id":"4f685b205f976f64","fromNode":"c24b59d138dbb7b8","fromSide":"bottom","toNode":"a8fccdaf7d6703f2","toSide":"top"},
 		{"id":"0be5033ce0a22a19","fromNode":"c24b59d138dbb7b8","fromSide":"bottom","toNode":"fb14e2ddc7af1ee0","toSide":"top"},
-		{"id":"cf885c0e2b768675","fromNode":"c24b59d138dbb7b8","fromSide":"bottom","toNode":"b1b0da299d9e1679","toSide":"top"}
+		{"id":"cf885c0e2b768675","fromNode":"c24b59d138dbb7b8","fromSide":"bottom","toNode":"b1b0da299d9e1679","toSide":"top"},
+		{"id":"60d9b333dc79614a","fromNode":"dcca7db4d592d50e","fromSide":"bottom","toNode":"fb02e63e1d4d6ac9","toSide":"top"},
+		{"id":"b8944cedf79d1f55","fromNode":"dcca7db4d592d50e","fromSide":"bottom","toNode":"45ab1c1ba28c4e72","toSide":"top"},
+		{"id":"f49f3e864e9a1352","fromNode":"dcca7db4d592d50e","fromSide":"bottom","toNode":"ea7a42cec7692dc5","toSide":"top"},
+		{"id":"65c3ddd8b75f4a24","fromNode":"dcbcdb0675816cee","fromSide":"bottom","toNode":"11a4f955c0a3924a","toSide":"top"},
+		{"id":"d0e12fd1dd3780d5","fromNode":"dcbcdb0675816cee","fromSide":"bottom","toNode":"c31c0232c3873126","toSide":"top"},
+		{"id":"cbc15eaa1b3ba31f","fromNode":"dcbcdb0675816cee","fromSide":"bottom","toNode":"f83af882420285e8","toSide":"top"}
 	]
 }
