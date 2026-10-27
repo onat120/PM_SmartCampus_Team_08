@@ -1,11 +1,10 @@
 # Project Dashboard
 
 ### Team Members
-![[Project Management.base#All Team Members]]
-
+![[Project Management.base#Sicht]]
 
 ### Project Charter
-![[Project Management.base#All Projects Charters]]
+![[Project Management.base#]]
 
 ## Goals
 ![[Project Management.base#All Goals]]
