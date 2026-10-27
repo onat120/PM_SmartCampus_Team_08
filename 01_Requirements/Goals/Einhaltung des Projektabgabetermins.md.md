@@ -6,8 +6,8 @@ metric: Abweichung vom Endtermin in Tagen
 owner: "[[Onat Özcelik]]"
 status: Draft
 target_date: 2027-06-30T00:00:00
-parent: "[[Smart Waste]]"
-project: "[[Smart Waste]]"
+parent: "[[Smart Waste.md]]"
+project: "[[Smart Waste.md]]"
 ---
 
 ## Beschreibung

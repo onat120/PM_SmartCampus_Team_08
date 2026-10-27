@@ -6,8 +6,8 @@ component: Hardware
 priority: High
 status: Draft
 assigned_to: "[[Onat Özcelik]]"
-parent: "[[Smart Waste]]"
-project: "[[Smart Waste]]"
+parent: "[[Smart Waste.md]]"
+project: "[[Smart Waste.md]]"
 ---
 
 ### Beschreibung

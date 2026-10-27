@@ -6,8 +6,8 @@ component: Software
 priority: High
 status: Draft
 assigned_to: "[[Ines Lassoued]]"
-parent: "[[Smart Waste]]"
-project: "[[Smart Waste]]"
+parent: "[[Smart Waste.md]]"
+project: "[[Smart Waste.md]]"
 ---
 
 ### Beschreibung

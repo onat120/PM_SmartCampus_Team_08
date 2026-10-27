@@ -5,8 +5,8 @@ category: Software
 estimated_effort: 32
 owner: "[[Onat Özcelik]]"
 status: Planned
-parent: "[[Smart Waste]]"
-project: "[[Smart Waste]]"
+parent: "[[Smart Waste.md]]"
+project: "[[Smart Waste.md]]"
 ---
 
 ### Beschreibung

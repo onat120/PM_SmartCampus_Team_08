@@ -5,8 +5,8 @@ category: Software
 estimated_effort: 16
 owner: "[[Ines Lassoued]]"
 status: Planned
-parent: "[[Smart Waste]]"
-project: "[[Smart Waste]]"
+parent: "[[Smart Waste.md]]"
+project: "[[Smart Waste.md]]"
 ---
 
 ### Beschreibung

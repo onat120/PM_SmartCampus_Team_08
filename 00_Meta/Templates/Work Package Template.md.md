@@ -1,12 +1,12 @@
 ---
-id: 
+id:
 type: Work Package
-category: # [Hardware | Software | Test | PM]
-estimated_effort: # Aufwand in Personenstunden (Ph)
-owner: 
+category:
+estimated_effort:
+owner:
 status: Planned
-parent: "[[Smart Waste]]"
-project: "[[Smart Waste]]"
+parent: "[[Smart Waste.md]]"
+project: "[[Smart Waste.md]]"
 ---
 
 ### Beschreibung

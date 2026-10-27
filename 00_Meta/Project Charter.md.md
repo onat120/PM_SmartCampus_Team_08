@@ -2,8 +2,8 @@
 id: PC_08
 type: Project Charter
 tags:
-parent: "[[Smart Waste]]"
-project: "[[Smart Waste]]"
+parent: "[[Smart Waste.md]]"
+project: "[[Smart Waste.md]]"
 ---
 
 # Projektauftrag (Project Charter) - TP 08: Smart Waste

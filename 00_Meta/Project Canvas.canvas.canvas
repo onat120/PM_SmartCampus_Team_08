@@ -3,7 +3,7 @@
 		{"id":"06569a2fa618d140","x":-1280,"y":-1720,"width":2313,"height":1011,"color":"#ff7300","type":"group","label":"Requirements"},
 		{"id":"c4f618e4d74de877","x":1160,"y":-1214,"width":943,"height":1380,"color":"6","type":"group","label":"Goals"},
 		{"id":"d33739d551c6b529","type":"group","x":440,"y":-219,"width":440,"height":910,"label":"Team"},
-		{"id":"f6357b4dbe474a13","type":"file","file":"00_Meta/Smart Waste.md","x":-120,"y":-500,"width":400,"height":300,"color":"1"},
+		{"id":"f6357b4dbe474a13","type":"file","file":"00_Meta/Smart Waste.md.md","x":-120,"y":-500,"width":400,"height":300,"color":"1"},
 		{"id":"113a589cb90095f6","type":"file","file":"00_Meta/Project Charter.md.md","x":-120,"y":10,"width":400,"height":400,"color":"2"},
 		{"id":"3b17b8c3c4ddf1a7","type":"file","file":"00_Meta/Team/Ines Lassoued.md","x":460,"y":-199,"width":400,"height":400,"color":"4"},
 		{"id":"9a2691c7b59da968","type":"file","file":"00_Meta/Team/Onat Özcelik.md","x":460,"y":271,"width":400,"height":400,"color":"4"},

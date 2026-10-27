@@ -5,8 +5,8 @@ category: PM
 estimated_effort: 15
 owner: "[[Onat Özcelik]]"
 status: Planned
-parent: "[[Smart Waste]]"
-project: "[[Smart Waste]]"
+parent: "[[Smart Waste.md]]"
+project: "[[Smart Waste.md]]"
 ---
 
 ### Beschreibung
