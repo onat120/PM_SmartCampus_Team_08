@@ -1,6 +1,10 @@
 views:
   - type: table
-    name: All Properties 1
+    name: All Goals
+    filters:
+      and:
+        - type.contains("Goal")
+    sort: []
   - type: table
     name: All Projects
     filters:
@@ -20,6 +24,12 @@ views:
   - type: table
     name: Sicht
   - type: table
-    name: All Properties 2
+    name: All Work Packages
+    filters:
+      and:
+        - type.contains("Work Package")
   - type: table
-    name: All Properties 3
+    name: All Requirements
+    filters:
+      and:
+        - type.contains("Requirement")
