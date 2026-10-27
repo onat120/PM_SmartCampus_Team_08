@@ -1,0 +1,24 @@
+{
+	"nodes":[
+		{"id":"fb02e63e1d4d6ac9","x":418,"y":548,"width":400,"height":400,"type":"file","file":"02_WBS_Planning/WP_3.2_Implementierung_App.md.md"},
+		{"id":"498eceeb7121f74c","type":"text","text":"1.0 Projektmanagement","x":200,"y":-920,"width":250,"height":60},
+		{"id":"d89cf74f4b2ca35c","type":"file","file":"02_WBS_Planning/WP_1.2_Projektsteuerung.md.md","x":125,"y":-680,"width":400,"height":400},
+		{"id":"e72ed960c5a64a2d","type":"file","file":"02_WBS_Planning/WP_1.1_Projektplanung.md.md","x":-320,"y":-680,"width":400,"height":400},
+		{"id":"d243d878bc800bba","type":"file","file":"02_WBS_Planning/WP_1.3_Projektabschluss.md.md","x":560,"y":-680,"width":400,"height":400},
+		{"id":"c24b59d138dbb7b8","type":"text","text":"2.0 Hardware & Montage","x":200,"y":-200,"width":250,"height":60},
+		{"id":"a8fccdaf7d6703f2","type":"file","file":"02_WBS_Planning/WP_2.1_Beschaffung_Sensorik.md.md","x":-320,"y":-40,"width":400,"height":400},
+		{"id":"fb14e2ddc7af1ee0","type":"file","file":"02_WBS_Planning/WP_2.2_Aufbau_Hardware.md.md","x":125,"y":-40,"width":400,"height":400},
+		{"id":"b1b0da299d9e1679","type":"file","file":"02_WBS_Planning/WP_2.3_Anpassung_Sensorik.md.md","x":560,"y":-40,"width":400,"height":400},
+		{"id":"dcca7db4d592d50e","type":"text","text":"3.0 Software & GUI","x":200,"y":440,"width":250,"height":60},
+		{"id":"dcbcdb0675816cee","type":"text","text":"4.0 Integration & Test","x":-245,"y":1200,"width":250,"height":60},
+		{"id":"ea7a42cec7692dc5","x":418,"y":548,"width":400,"height":400,"type":"file","file":"02_WBS_Planning/WP_3.1_GUI_Mockup.md.md"}
+	],
+	"edges":[
+		{"id":"a0cd9b1a09a4eebc","fromNode":"498eceeb7121f74c","fromSide":"bottom","toNode":"d89cf74f4b2ca35c","toSide":"top"},
+		{"id":"d880e03a875ef633","fromNode":"498eceeb7121f74c","fromSide":"bottom","toNode":"e72ed960c5a64a2d","toSide":"top"},
+		{"id":"e461259a561a8ffc","fromNode":"498eceeb7121f74c","fromSide":"bottom","toNode":"d243d878bc800bba","toSide":"top"},
+		{"id":"4f685b205f976f64","fromNode":"c24b59d138dbb7b8","fromSide":"bottom","toNode":"a8fccdaf7d6703f2","toSide":"top"},
+		{"id":"0be5033ce0a22a19","fromNode":"c24b59d138dbb7b8","fromSide":"bottom","toNode":"fb14e2ddc7af1ee0","toSide":"top"},
+		{"id":"cf885c0e2b768675","fromNode":"c24b59d138dbb7b8","fromSide":"bottom","toNode":"b1b0da299d9e1679","toSide":"top"}
+	]
+}
