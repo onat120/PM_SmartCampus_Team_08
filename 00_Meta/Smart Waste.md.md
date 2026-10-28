@@ -20,4 +20,4 @@ INFO: Sicht wechseln klappt bei mir leider nicht!
 
 
 ## Work Packages (PERT)
-![[Project Management.base]]
+![[Project Management.base#All Work Packages (PERT)]]
