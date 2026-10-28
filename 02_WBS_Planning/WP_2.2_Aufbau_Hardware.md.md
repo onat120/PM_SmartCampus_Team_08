@@ -5,10 +5,11 @@ category: Hardware
 estimated_effort: 24
 owner: "[[Onat Özcelik]]"
 status: Planned
-parent: "[[Smart Waste.md]]"
-project: "[[Smart Waste.md]]"
+parent: "[[Smart Waste]]"
+project: "[[Smart Waste]]"
+duration_days: 5
+lead_time_days: 0
 ---
-
 ### Beschreibung
 Mechanischer Zusammenbau der Sensornodes, 3D-Druck oder Anpassung wetterfester IP67-Gehäuse und Montage der Solar-Panels an den Prototyp-Tonnen.
 

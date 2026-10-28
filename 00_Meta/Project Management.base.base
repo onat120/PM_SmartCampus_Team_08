@@ -31,3 +31,14 @@ views:
     filters:
       and:
         - type.contains("Requirement")
+  - type: table
+    name: All Work Packages (Timing)
+    filters:
+      and:
+        - type.contains("Work Package")
+    order:
+      - duration_days
+      - lead_time_days
+      - estimated_effort
+      - owner
+      - status

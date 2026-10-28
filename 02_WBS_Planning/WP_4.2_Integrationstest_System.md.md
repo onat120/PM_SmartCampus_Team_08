@@ -5,10 +5,11 @@ category: Test
 estimated_effort: 20
 owner: "[[Ines Lassoued]]"
 status: Planned
-parent: "[[Smart Waste.md]]"
-project: "[[Smart Waste.md]]"
+parent: "[[Smart Waste]]"
+project: "[[Smart Waste]]"
+duration_days: 5
+lead_time_days: 0
 ---
-
 ### Beschreibung
 Test des Gesamtsystems (End-to-End): Sensor sendet Daten $\rightarrow$ Backend verarbeitet $\rightarrow$ App aktualisiert Füllstand und Routenplanung.
 

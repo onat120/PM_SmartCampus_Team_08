@@ -5,10 +5,11 @@ category: Software
 estimated_effort: 40
 owner: "[[Ines Lassoued]]"
 status: Planned
-parent: "[[Smart Waste.md]]"
-project: "[[Smart Waste.md]]"
+parent: "[[Smart Waste]]"
+project: "[[Smart Waste]]"
+duration_days: 15
+lead_time_days: 0
 ---
-
 ### Beschreibung
 Programmierung der Mobile App inklusive Visualisierung der Tonnen-Füllstände, Push-Benachrichtigungen und Einbindung des Routenoptimierungs-Algorithmus.
 

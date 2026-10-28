@@ -5,10 +5,11 @@ category: Test
 estimated_effort: 16
 owner: "[[Onat Özcelik]]"
 status: Planned
-parent: "[[Smart Waste.md]]"
-project: "[[Smart Waste.md]]"
+parent: "[[Smart Waste]]"
+project: "[[Smart Waste]]"
+duration_days: 4
+lead_time_days: 0
 ---
-
 ### Beschreibung
 Durchführung von Labor- und Benchmarks-Tests der Hardware (Messgenauigkeit des Ultraschallsensors, Prüfung der Solar-Ladeleistung und Akkulaufzeit).
 

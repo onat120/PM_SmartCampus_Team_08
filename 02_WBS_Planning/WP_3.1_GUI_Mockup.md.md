@@ -5,10 +5,11 @@ category: Software
 estimated_effort: 16
 owner: "[[Ines Lassoued]]"
 status: Planned
-parent: "[[Smart Waste.md]]"
-project: "[[Smart Waste.md]]"
+parent: "[[Smart Waste]]"
+project: "[[Smart Waste]]"
+duration_days: 7
+lead_time_days: 0
 ---
-
 ### Beschreibung
 Entwurf von UI/UX-Mockups und User-Flows für die Mobile App (Dashboard für Live-Füllstände, Routenansicht für Reinigungskräfte, Einstellungen).
 

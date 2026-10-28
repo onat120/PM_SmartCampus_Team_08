@@ -5,10 +5,11 @@ category: PM
 estimated_effort: 30
 owner: "[[Ines Lassoued]]"
 status: Planned
-parent: "[[Smart Waste.md]]"
-project: "[[Smart Waste.md]]"
+parent: "[[Smart Waste]]"
+project: "[[Smart Waste]]"
+duration_days: 60
+lead_time_days: 0
 ---
-
 ### Beschreibung
 Kontinuierliche Steuerung des Projektfortschritts, Durchführung wöchentlicher Status-Meetings, Risikobewertung und Aktualisierung des Dashboards.
 

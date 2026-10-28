@@ -5,10 +5,11 @@ category: Software
 estimated_effort: 32
 owner: "[[Onat Özcelik]]"
 status: Planned
-parent: "[[Smart Waste.md]]"
-project: "[[Smart Waste.md]]"
+parent: "[[Smart Waste]]"
+project: "[[Smart Waste]]"
+duration_days: 12
+lead_time_days: 0
 ---
-
 ### Beschreibung
 Aufbau der Backend-Infrastruktur (REST-API / MQTT-Broker) und Anlegen der Datenbank zur Speicherung der Sensorwerte und Routendaten.
 
