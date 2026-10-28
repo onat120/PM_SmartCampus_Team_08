@@ -1,6 +1,7 @@
 ---
 id:
-type: Team
+type:
+  - Team
 role:
 studies: ITS
 semester: "4"

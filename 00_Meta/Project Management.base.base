@@ -22,8 +22,6 @@ views:
         - type.contains("Project Charter")
         - '!file.name.contains("(AI)")'
   - type: table
-    name: Sicht
-  - type: table
     name: All Work Packages
     filters:
       and:

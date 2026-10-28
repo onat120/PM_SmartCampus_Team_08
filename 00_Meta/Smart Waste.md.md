@@ -1,4 +1,5 @@
 # Smart Waste
+INFO: Sicht wechseln klappt bei mir leider nicht!
 
 # Project Dashboard
 
