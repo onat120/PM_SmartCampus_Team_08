@@ -1,13 +1,3 @@
----
-id: WP_1.1
-type: Work Package
-category: PM
-estimated_effort: 20
-owner: "[[Onat Özcelik]]"
-status: Planned
-parent: "[[Smart Waste.md]]"
-project: "[[Smart Waste.md]]"
----
 
 ### Beschreibung
 Erstellung der initialen Projektplanung, Definition der Stakeholder, Einrichten des Obsidian-Vaults, Git-Repositories und der Kommunikationsstrukturen.
