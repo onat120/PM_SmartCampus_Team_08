@@ -42,3 +42,19 @@ views:
       - estimated_effort
       - owner
       - status
+  - type: table
+    name: All Work Packages (PERT)
+    filters:
+      and:
+        - type.contains("Work Package")
+    order:
+      - duration_days
+      - lead_time_days
+      - estimated_effort
+      - owner
+      - status
+      - pert_optimistic
+      - pert_likely
+      - pert_pessimistic
+      - pert_estimated_effort
+      - pert_sigma
