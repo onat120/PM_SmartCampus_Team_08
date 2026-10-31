@@ -1,4 +1,4 @@
-[[Sync to GitHub]][[Notizen]][[WP_4.1_Funktionstest_Hardware.md]][[WP_3.1_GUI_Mockup.md]]# Smart Waste
+[[Sync to GitHub & Upload FELIX]][[Notizen]][[WP_4.1_Funktionstest_Hardware.md]][[WP_3.1_GUI_Mockup.md]]# Smart Waste
 INFO: Sicht wechseln klappt bei mir leider nicht!
 
 # Project Dashboard
