@@ -1,44 +1,28 @@
 ```mermaid
 graph LR
+    M_Start([Start: Projektbeginn]) --> AP_11[WP 1.1: Projektplanung<br/>D=5d]
 
-Start([Start])
+    %% Hardware-Strang mit Lead Time
+    AP_11 --> | EA | AP_21[WP 2.1: Beschaffung Sensorik<br/>D=2d]
+    AP_21 --> | EA + 7d Lead Time | AP_22[WP 2.2: Aufbau Hardware<br/>D=5d]
+    AP_22 --> | EA | AP_23[WP 2.3: Anpassung Sensorik<br/>D=10d]
 
-WP11[WP 1.1 Projektplanung<br/>5d]
-WP21[WP 2.1 Beschaffung Sensorik<br/>3d]
-WP22[WP 2.2 Aufbau Hardware<br/>6d]
-WP23[WP 2.3 Anpassung Sensorik<br/>7d]
+    %% Paralleler Software-Strang (Anfangsfolge AA)
+    AP_11 --> | AA | AP_31[WP 3.1: GUI Mockup<br/>D=7d]
+    AP_31 --> | EA | AP_32[WP 3.2: Implementierung App<br/>D=15d]
+    AP_31 --> | EA | AP_33[WP 3.3: Backend API<br/>D=12d]
 
-WP31[WP 3.1 GUI Mockup<br/>5d]
-WP32[WP 3.2 Implementierung App<br/>8d]
-WP33[WP 3.3 Backend API<br/>12d]
+    %% Integration & Test
+    AP_23 --> | EA | AP_41[WP 4.1: Funktionstest Hardware<br/>D=4d]
+    AP_32 --> | EA | AP_42[WP 4.2: Integrationstest System<br/>D=5d]
+    AP_33 --> | EA | AP_42
+    AP_41 --> | EA | AP_42
+    AP_42 --> | EA | AP_43[WP 4.3: Feldtest Campus<br/>D=7d]
 
-WP41[WP 4.1 Funktionstest Hardware<br/>4d]
-WP42[WP 4.2 Integrationstest System<br/>5d]
-WP43[WP 4.3 Feldtest Campus<br/>7d]
-
-Ende([Projektende])
-
-Start --> WP11
-
-WP11 -->|EA| WP21
-WP21 -->|EA + 7d Lead Time| WP22
-WP22 -->|EA| WP23
-
-WP11 -->|AA| WP31
-WP31 -->|EA| WP32
-WP31 -->|AA| WP33
-
-WP23 -->|EA| WP41
-
-WP32 -->|EA| WP42
-WP33 -->|EA| WP42
-WP41 -->|EA| WP42
-
-WP42 -->|EA| WP43
-
-WP43 --> Ende
+    %% Projektabschluss
+    AP_43 --> | EA | AP_13[WP 1.3: Projektabschluss<br/>D=10d]
+    AP_13 --> M_End([Meilenstein: Projektabschluss])
 ```
-
 # Konsistenz- und Plausibilitätsprüfung
 
 ## Prüfung der Abhängigkeiten
@@ -69,3 +53,7 @@ Dieser Pfad besitzt die längste Gesamtdauer und bestimmt den Projektendtermin.
 ## Plausibilitätsbewertung
 
 Die Arbeitspakete besitzen logische Reihenfolgen. Hardware- und Softwareentwicklung laufen teilweise parallel. Die Integration erfolgt erst nach Fertigstellung aller wesentlichen Komponenten. Der Projektablauf erscheint realistisch und konsistent.
+
+# Smart Waste - Projektablaufplan (Netzplan)
+
+
