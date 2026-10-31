@@ -1,3 +1,4 @@
+
 ```mermaid
 graph LR
     M_Start([Start: Projektbeginn]) --> AP_11[WP 1.1: Projektplanung<br/>D=5d]
@@ -23,6 +24,7 @@ graph LR
     AP_43 --> | EA | AP_13[WP 1.3: Projektabschluss<br/>D=10d]
     AP_13 --> M_End([Meilenstein: Projektabschluss])
 ```
+
 # Konsistenz- und Plausibilitätsprüfung
 
 ## Prüfung der Abhängigkeiten
@@ -53,7 +55,5 @@ Dieser Pfad besitzt die längste Gesamtdauer und bestimmt den Projektendtermin.
 ## Plausibilitätsbewertung
 
 Die Arbeitspakete besitzen logische Reihenfolgen. Hardware- und Softwareentwicklung laufen teilweise parallel. Die Integration erfolgt erst nach Fertigstellung aller wesentlichen Komponenten. Der Projektablauf erscheint realistisch und konsistent.
-
-# Smart Waste - Projektablaufplan (Netzplan)
 
 
