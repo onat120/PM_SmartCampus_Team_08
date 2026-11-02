@@ -5,7 +5,7 @@ subtype: Quality
 component: Hardware
 priority: High
 status: Draft
-assigned_to: "[[Ines Lassoued]]"
+assigned_to: "[[00_Meta/Team/Ines Lassoued]]"
 parent: "[[Smart Waste.md]]"
 project: "[[Smart Waste.md]]"
 ---

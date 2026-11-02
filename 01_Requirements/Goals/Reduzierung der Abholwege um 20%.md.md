@@ -3,7 +3,7 @@ id: GOAL_02
 type: Goal
 dimension: Scope
 metric: Prozentuale Einsparung der Routenlänge in km
-owner: "[[Ines Lassoued]]"
+owner: "[[00_Meta/Team/Ines Lassoued]]"
 status: Draft
 target_date: 2027-06-30T00:00:00
 parent: "[[Smart Waste.md]]"

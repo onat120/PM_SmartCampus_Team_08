@@ -3,7 +3,7 @@ id: WP_4.3
 type: Work Package
 category: Test
 estimated_effort: 24
-owner: "[[Ines Lassoued]]"
+owner: "[[00_Meta/Team/Ines Lassoued]]"
 status: Planned
 parent: "[[Smart Waste]]"
 project: "[[Smart Waste]]"
