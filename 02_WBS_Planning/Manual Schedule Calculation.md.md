@@ -12,7 +12,7 @@
 | **A6**    | Fr, 23.06. | Fr, 30.06. | Fr, 23.06.  | Fr, 30.06.  | 6        | 0 Tage  | A3        |
 | **A7**    | Mo, 03.07. | Fr, 07.07. | Mo, 03.07.  | Fr, 07.07.  | 5        | 0 Tage  | A5, A6    |
 | **A8**    | Mo, 10.07. | Mi, 12.07. | Mo, 10.07.  | Mi, 12.07.  | 3        | 0 Tage  | A4, A7    |
-
+PRÜFUNGSRELEVANT
 ---
 
 ## 2. Netzplan-Graph (Struktur)
