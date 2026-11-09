@@ -6,7 +6,7 @@ parent: "[[Smart Waste.md]]"
 project: "[[Smart Waste.md]]"
 ---
 
-# Projektauftrag (Project Charter) - TP 08: Smart Waste
+#rojektauftrag (Project Charter) - TP 08: Smart Waste
 
 ## Projektname & Vision
 Das Projekt **"Smart Waste Management"** digitalisiert und optimiert das Entsorgungs- und Recyclingmanagement auf dem HFU-Campus durch ein intelligentes IoT-Sensorsystem. Durch den Einsatz von autark solarbetriebenen Ultraschall-Füllstandssensoren in Kombination mit automatischer Datenanalyse werden Müllbehälter bedarfsgerecht erfasst und Leerungen vorausschauend geplant. Die dazugehörige Mobile App versorgt das Reinigungspersonal mit dynamisch optimierten Abholrouten, reduziert unnötige Kontrollgänge und verbessert die Effizienz des Betriebshofs nachhaltig.
